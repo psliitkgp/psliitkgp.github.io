@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: bookshelf
+title: Book & articles
 permalink: /books/
 nav: false
 collection: books
