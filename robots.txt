@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://psliitkgp.github.io/al-folio/sitemap.xml
+Sitemap: https://psliitkgp.github.io/sitemap.xml
