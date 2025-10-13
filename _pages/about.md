@@ -6,8 +6,8 @@ subtitle: <a href='https://www.iitkgp.ac.in/department/PH/'>Department of Physic
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: sir.png
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Kharagpur, India - 721302</p>
 
