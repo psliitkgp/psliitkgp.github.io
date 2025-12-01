@@ -419,12 +419,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-congratulations-to-ms-renu-yadav-for-her-recent-publication-titled-anomalous-lasing-behavior-in-a-nonlinear-plasmonic-random-laser-in-acs-photonics",
+          title: 'Congratulations to Ms. Renu Yadav for her recent publication titled “Anomalous Lasing Behavior...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-congratulations-to-dr-sudha-maria-lis-s-and-somnath-pandit-for-their-recent-publication-titled-purcell-enhanced-laser-action-using-a-super-tamm-cavity-mode-in-optics-letters",
+          section: "News",},{id: "news-congratulations-to-dr-sudha-maria-lis-s-and-somnath-pandit-for-their-recent-publication-titled-purcell-enhanced-laser-action-using-a-super-tamm-cavity-mode-in-optics-letters",
           title: 'Congratulations to Dr. Sudha Maria Lis S and Somnath Pandit for their recent...',
           description: "",
           section: "News",},{id: "news-congratulaitons-to-mr-subhajit-dutta-for-his-latest-publication-on-spectral-dynamics-of-a-microbottle-laser-under-thermal-perturbation-in-optical-materials",
