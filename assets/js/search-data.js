@@ -424,8 +424,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-congratulations-to-dr-sudha-maria-lis-s-and-somnath-pandit-for-their-recent-publication-titled-purcell-enhanced-laser-action-using-a-super-tamm-cavity-mode-in-optics-letters",
+          title: 'Congratulations to Dr. Sudha Maria Lis S and Somnath Pandit for their recent...',
           description: "",
           section: "News",},{id: "news-congratulaitons-to-mr-subhajit-dutta-for-his-latest-publication-on-spectral-dynamics-of-a-microbottle-laser-under-thermal-perturbation-in-optical-materials",
           title: 'Congratulaitons to Mr. Subhajit Dutta for his latest publication on “Spectral dynamics of...',
