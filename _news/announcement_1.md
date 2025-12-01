@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulaitons to _Mr. Subhajit Dutta_ for his latest publication on [_"Spectral dynamics of a microbottle laser under thermal perturbation"_](https://doi.org/10.1016/j.optmat.2025.117715) in Optical Materials !
+Congratulaitons to _Mr. Subhajit Dutta_ for his latest publication on [__"Spectral dynamics of a microbottle laser under thermal perturbation"__](https://doi.org/10.1016/j.optmat.2025.117715) in _Optical Materials_ !
