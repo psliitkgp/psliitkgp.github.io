@@ -2,7 +2,7 @@
 layout: post
 title: A long announcement with details
 date: 2024-01-25 18:11:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 Congratulations to _Ms. Renu Yadav_ for her recent publication titled [__"Anomalous Lasing Behavior in a Nonlinear Plasmonic Random Laser"__](https://doi.org/10.1021/acsphotonics.4c01578) in _ACS Photonics_.
