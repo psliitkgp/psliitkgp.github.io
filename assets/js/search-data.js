@@ -419,6 +419,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "members-pranab-maji",
+          title: 'Pranab Maji',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Pranab_Maji";
+            },},{id: "members-shivakiran-b-n-bhaktha",
+          title: 'Shivakiran B. N. Bhaktha',
+          description: "Profile of Shivakiran B. N. Bhaktha, PI",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Shivakiran_Bhaktha";
+            },},{id: "members-somnath-pandit",
+          title: 'Somnath Pandit',
+          description: "PhD student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Somnath_Pandit";
             },},{id: "news-congratulations-to-ms-renu-yadav-for-her-recent-publication-titled-anomalous-lasing-behavior-in-a-nonlinear-plasmonic-random-laser-in-acs-photonics",
           title: 'Congratulations to Ms. Renu Yadav for her recent publication titled “Anomalous Lasing Behavior...',
           description: "",
