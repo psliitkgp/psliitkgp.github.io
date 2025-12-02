@@ -50,7 +50,17 @@ nav_order: 7
                         <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
                     {% endif %}     
                     {% if member.profile.cv %}
-                        <a href="{{ '/assets/pdf/' | append: member.profile.cv | relative_url }}" class="card-link" target="_blank"><i class="fas fa-file-pdf"></i></a>
+                    <a
+                        {% if member.profile.cv contains '://' %}
+                          href="{{ member.profile.cv }}"
+                        {% else %}
+                          href="{{ member.profile.cv | prepend: 'assets/pdf/' | relative_url }}"
+                        {% endif %}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="card-link"
+                    >
+                    <i class="fas fa-file-pdf"></i></a>
                     {% endif %}                               
                     <p class="card-text">
                         <small class="test-muted"><i class="fas fa-thumbtack"></i> {{ member.profile.address | replace: '<br />', ', ' }}</small>
