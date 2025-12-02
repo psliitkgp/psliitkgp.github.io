@@ -45,7 +45,16 @@ nav_order: 7
                     {% endif %}
                     {% if member.profile.github %}
                         <a href="https://github.com/{{ member.profile.github }}" class="card-link" target="_blank"><i class="fab fa-github"></i></a>
-                    {% endif %}    
+                    {% endif %}
+                    {% if member.profile.linkedin %}
+                        <a href="https://www.linkedin.com/in/{{ member.profile.linkedin }}" class="card-link" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+                    {% endif %}  
+                    {% if member.profile.researchgate %}
+                        <a href="https://www.researchgate.net/profile/{{ member.profile.researchgate }}" class="card-link" target="_blank"><i class="ai ai-researchgate"></i></a>
+                    {% endif %}  
+                    {% if member.profile.gscholar %}
+                        <a href="https://scholar.google.com/citations?user={{ member.profile.gscholar }}" class="card-link" target="_blank"><i class="ai ai-google-scholar"></i></a>
+                    {% endif %}  
                     {% if member.profile.website %}
                         <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
                     {% endif %}     
