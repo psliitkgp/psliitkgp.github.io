@@ -434,6 +434,11 @@ ninja.data = [{
           description: "PhD student",
           section: "Members",handler: () => {
               window.location.href = "/members/Somnath_Pandit";
+            },},{id: "members-subhajit-dutta",
+          title: 'Subhajit Dutta',
+          description: "PhD student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Subhajit_Dutta";
             },},{id: "news-congratulations-to-ms-renu-yadav-for-her-recent-publication-titled-anomalous-lasing-behavior-in-a-nonlinear-plasmonic-random-laser-in-acs-photonics",
           title: 'Congratulations to Ms. Renu Yadav for her recent publication titled “Anomalous Lasing Behavior...',
           description: "",
