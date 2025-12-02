@@ -12,6 +12,11 @@ profile:
     <p>Kharagpur, India - 721302</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+
+scholar:
+  sort_by: year
+  order: ascending  # can be either "ascending" or "descending"
+
 social: true # includes social icons at the bottom of the page
 
 announcements:
