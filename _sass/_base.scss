@@ -241,6 +241,19 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+
+
+// Members
+
+.team {
+  .card-body {
+    a:first-of-type {
+      text-decoration: none;
+    }
+   padding: 13.5px;
+  }
+}
+
 // Navbar customization
 
 .navbar {

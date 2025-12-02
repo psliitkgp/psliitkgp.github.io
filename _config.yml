@@ -7,7 +7,7 @@ first_name: Shivakiran
 middle_name: B N 
 last_name: Bhaktha
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Please email to contact.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Photonic Systems Lab at IIT Kharagpur.
 footer_text: >
@@ -150,8 +150,20 @@ collections:
     defaults:
       layout: post
     output: true
+    permalink: /news/:path/
   projects:
     output: true
+    permalink: /projects/:path/
+  members:
+    output: true
+    permalink: /members/:path
+  collaborators:
+    output: true
+    permalink: /collaborators/:path
+  funding:
+    output: true
+    permalink: /funding/:path
+    
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
