@@ -12,6 +12,11 @@ profile:
     <p>Kharagpur, India - 721302</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+
+scholar:
+  sort_by: year
+  order: ascending  # can be either "ascending" or "descending"
+
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -20,21 +25,40 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Welcome to Photonics Systems Laboratory , Led by <a href='https://www.iitkgp.ac.in/department/PH/faculty/ph-kiranbhaktha'>Shivakiran B N Bhaktha</a>. We work in the area of ORDERED and DISORDERED Photonics. Periodic and random structures are fabricated and studied in our lab to understand the behaviour of light in these systems, and also for the development of photonic devices. 
+Welcome to Photonics Systems Laboratory led by <a href='https://www.iitkgp.ac.in/department/PH/faculty/ph-kiranbhaktha'>Dr. Shivakiran B. N. Bhaktha</a>. We work in the area of _ordered_ and _disordered_ Photonics. Periodic and random structures are fabricated and studied in our lab to understand the behaviour of light in these systems, and also for the development of photonic devices. 
 Some of our primary research interests include:
-- Random Lasers
-- Photonic Crystals
-- Plasmonics
-- Glass Photonics
-- Glass Ceramics
-- Optofluidics
-- Micro-resonators
-- Nonlinear Optics
-- Photonic Devices and Sensors 
+
+<table>
+  <tr>
+    <td>- Random Lasers </td>
+    <td>- Photonic Devices and Sensors</td>
+  </tr>
+  <tr>
+    <td>- Photonic Crystals</td>
+    <td>- Nonlinear Optics</td>
+  </tr>
+  <tr>
+    <td>- Plasmonics </td>
+    <td>- Glass Photonics</td>
+  </tr>
+  <tr>
+    <td>- Optofluidics</td>
+    <td>- Glass Ceramics</td>
+  </tr>
+  <tr>
+    <td>- Micro-resonators</td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

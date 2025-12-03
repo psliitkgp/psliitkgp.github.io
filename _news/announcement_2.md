@@ -1,11 +1,13 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
+date: 2024-01-25 18:11:00-0400
+inline: true
 related_posts: false
 ---
+Congratulations to _Ms. Renu Yadav_ for her recent publication titled [__"Anomalous Lasing Behavior in a Nonlinear Plasmonic Random Laser"__](https://doi.org/10.1021/acsphotonics.4c01578) in _ACS Photonics_.
 
+
+<!--
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
 ---
@@ -31,3 +33,4 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 > —Anais Nin
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+-->
