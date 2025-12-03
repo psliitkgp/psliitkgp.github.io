@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "Current and completed projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -439,36 +439,36 @@ ninja.data = [{
           description: "PhD student",
           section: "Members",handler: () => {
               window.location.href = "/members/Pradip_Patra";
-            },},{id: "members-sarbojit-mukherjee",
-          title: 'Sarbojit Mukherjee',
-          description: "Phd student",
-          section: "Members",handler: () => {
-              window.location.href = "/members/Pranab_Maji%20copy%202";
-            },},{id: "members-pranab-maji",
-          title: 'Pranab Maji',
-          description: "MTech student",
-          section: "Members",handler: () => {
-              window.location.href = "/members/Pranab_Maji%20copy%203";
-            },},{id: "members-pranab-maji",
-          title: 'Pranab Maji',
-          description: "MTech student",
-          section: "Members",handler: () => {
-              window.location.href = "/members/Pranab_Maji%20copy%204";
-            },},{id: "members-pranab-maji",
-          title: 'Pranab Maji',
-          description: "MTech student",
-          section: "Members",handler: () => {
-              window.location.href = "/members/Pranab_Maji%20copy%205";
-            },},{id: "members-pranab-maji",
-          title: 'Pranab Maji',
-          description: "MTech student",
-          section: "Members",handler: () => {
-              window.location.href = "/members/Pranab_Maji%20copy";
             },},{id: "members-pranab-maji",
           title: 'Pranab Maji',
           description: "MTech student",
           section: "Members",handler: () => {
               window.location.href = "/members/Pranab_Maji";
+            },},{id: "members-renu-yadav",
+          title: 'Renu Yadav',
+          description: "Phd student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Renu_Yadav%20copy%202";
+            },},{id: "members-renu-yadav",
+          title: 'Renu Yadav',
+          description: "Phd student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Renu_Yadav%20copy";
+            },},{id: "members-renu-yadav",
+          title: 'Renu Yadav',
+          description: "Phd student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Renu_Yadav";
+            },},{id: "members-romala-sattibabu",
+          title: 'Romala Sattibabu',
+          description: "Phd student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Romala_Sattibabu";
+            },},{id: "members-sarbojit-mukherjee",
+          title: 'Sarbojit Mukherjee',
+          description: "Phd student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Sarbojit_Mukherjee";
             },},{id: "members-shivakiran-b-n-bhaktha",
           title: 'Shivakiran B. N. Bhaktha',
           description: "Profile of Shivakiran B. N. Bhaktha, PI",
@@ -484,11 +484,21 @@ ninja.data = [{
           description: "PhD student",
           section: "Members",handler: () => {
               window.location.href = "/members/Subhajit_Dutta";
-            },},{id: "members-somnath-pandit",
-          title: 'Somnath Pandit',
+            },},{id: "members-subhajit-jana",
+          title: 'Subhajit Jana',
+          description: "Phd student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Subhajit_Jana";
+            },},{id: "members-sudha-maria-lis-s",
+          title: 'Sudha Maria Lis S',
+          description: "Phd student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Sudha%20_Maria%20Lis%20S";
+            },},{id: "members-susovan-giri",
+          title: 'Susovan Giri',
           description: "PhD student",
           section: "Members",handler: () => {
-              window.location.href = "/members/Susovan_Dey";
+              window.location.href = "/members/Susovan_Giri";
             },},{id: "news-congratulations-to-ms-renu-yadav-for-her-recent-publication-titled-anomalous-lasing-behavior-in-a-nonlinear-plasmonic-random-laser-in-acs-photonics",
           title: 'Congratulations to Ms. Renu Yadav for her recent publication titled “Anomalous Lasing Behavior...',
           description: "",
@@ -503,11 +513,6 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
@@ -515,7 +520,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
-          description: "another without an image",
+          description: "another without an image. Some description about the project.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
@@ -523,21 +528,11 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
@@ -551,11 +546,25 @@ ninja.data = [{
           window.open("mailto:%6B%69%72%61%6E%62%68%61%6B%74%68%61@%70%68%79.%69%69%74%6B%67%70.%61%63.%69%6E", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/psliitkgp", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/photonic-systems-lab-psl-44414a38a", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0003-4846-8262", "_blank");
         },
       },{
         id: 'social-scholar',
