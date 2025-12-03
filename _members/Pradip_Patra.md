@@ -2,24 +2,24 @@
 layout: about
 inline: false
 group: Graduate Students
-group_rank: 3
+group_rank: 6
 team_collaborator: false
 
 
-title: Somnath Pandit
+title: Pradip Patra
 description: PhD student
-lastname: Pandit        
-publications: 'author^=*Somnath'
+lastname: Patra        
+publications:  
 
 teaser: >
-    Somnath is a graduate ...
+    Pradip is a graduate ...
 profile:
-    name: Somnath Pandit
+    name: Pradip Patra
     position: Doctoral Student 
     align: right
     image: #PLCG_profile.jpg
     role: 
-    email: panditsomnath@kgpian.iitkgp.ac.in
+    email:  
     github: 
     orcid: 
     address: >
