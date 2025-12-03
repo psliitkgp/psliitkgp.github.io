@@ -2,30 +2,28 @@
 layout: about
 inline: false
 group: Graduate Students
-group_rank: 3
+group_rank: 5
 team_collaborator: false
 
 
-title: Somnath Pandit
+title:  Biplab Dhara
 description: PhD student
-lastname: Pandit        
-publications: 'author^=*Somnath'
+lastname: Dhara        
+publications:  
 
 teaser: >
-    Somnath is a graduate ...
+    one line bio....
 profile:
-    name: Somnath Pandit
+    name: Biplab Dhara
     position: Doctoral Student 
     align: right
     image: #PLCG_profile.jpg
     role: 
-    email: panditsomnath@kgpian.iitkgp.ac.in
+    email:  
     github: 
     orcid: 
     address: >
-        School of Nanoscience and Technology<br />
-        Indian Institute of Technology Kharagpur<br />
-        WB, India.
+         
 ---
 
 I am a PhD student ....
