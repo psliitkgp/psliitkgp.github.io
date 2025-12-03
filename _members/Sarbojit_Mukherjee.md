@@ -9,19 +9,17 @@ year: 2024
 title: Sarbojit Mukherjee
 description: Phd student
 lastname: Mukherjee
-publications:  
+publications: 'author^=*Sarbojit'
 
 teaser: >
-    Pranab finished his MTech in July 2025. His research focused ....
-    MS Thesis: 
+    ....finished his MTech in July 2025. His research focused ....
+    MS Thesis: Development of Optical Fiber-Based Crack Monitoring, Temperature Sensing, and Illumination Systems for Underground Coal Mines and Civil Infrastructures
     Model: 
 profile:
     name: Sarbojit Mukherjee
     position: Phd Student 
     align: right
     image: #jihad_pic.jpg
-
-
     role: 
     email:  
     github: 

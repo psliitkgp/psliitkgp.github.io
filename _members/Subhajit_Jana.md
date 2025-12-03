@@ -13,15 +13,13 @@ publications: 'author^=*Subhajit'
 
 teaser: >
     Subhajit finished his.... 
-    Phd Thesis: 
+    Phd Thesis: Studies on Two-Dimensional Nanomaterials for Broadband Photodetection with Extended Spectral Coverage 
     Model: 
 profile:
     name: Subhajit Jana
-    position: Phd Student 
+    position: 
     align: right
     image: #jihad_pic.jpg
-
-
     role: 
     email:  
     github: 

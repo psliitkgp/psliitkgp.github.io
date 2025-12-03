@@ -14,7 +14,7 @@ publications: 'author^=*Renu'
 
 teaser: >
     Renu finished ..... 
-    Phd Thesis: 
+    Phd Thesis: Investigations of Spatial, Spectral and Thermal Perturbations on the Modes of Random Lasers
     Model: 
 profile:
     name: Renu Yadav
@@ -29,7 +29,7 @@ profile:
          
 ---
 
-Reru was a MTech student in the Department of .....
+Reru was a  student in the Department of .....
 
 ## Short Bio
 

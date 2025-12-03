@@ -13,15 +13,13 @@ publications: 'author^=*Romala'
 
 teaser: >
     Romala finished her Phd in.... Her research focused ....
-    MS Thesis: 
+    MS Thesis:Design and Fabrication of Titanium indiffused Lithium Niobate based Integrated Optic Devices 
     Model: 
 profile:
     name: Romala Sattibabu
-    position: Phd Student 
+    position:  #current position
     align: right
     image: #jihad_pic.jpg
-
-
     role: 
     email: 
     github: 

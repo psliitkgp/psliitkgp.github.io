@@ -4,19 +4,19 @@ inline: false
 group: Alumni
 group_rank: 4
 team_collaborator: false
-year: 2024
+year: 2021
 
-title: Renu Yadav
+title: Rup Kumar Chowdhury
 description: PhD Students
-lastname: Yadav
-publications: 'author^=*Renu'
+lastname: Chowdhury
+publications: 'author^=*Rup Kumar'
 
 teaser: >
-    Renu finished ..... 
-    Phd Thesis: 
+    Rup Kumar finished ..... 
+    Phd Thesis:Ultrafast Studies on Light-Matter Interactions in Layered Transition Metal Disulfides for Photonics 
     Model: 
 profile:
-    name: Renu Yadav
+    name: Rup Kumar Chowdhury
     position: 
     align: right
     image: #jihad_pic.jpg

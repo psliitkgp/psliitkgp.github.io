@@ -14,12 +14,12 @@ publications: 'author^=*Sudha'
 
 teaser: >
     Sudha finished her Phd .... research focused ....
-    MS Thesis: 
+    Phd Thesis: Nano-engineering of Photonic Crystal Platform Aided Enhancement of Surface, Tamm and Microcavity States
     Model: 
     
 profile:
     name: Sudha Maria Lis S
-    position: Phd Student 
+    position:  
     align: right
     image: #jihad_pic.jpg
     role: 
