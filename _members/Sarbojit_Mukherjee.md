@@ -2,33 +2,32 @@
 layout: about
 inline: false
 group: Alumni
-group_rank: 5
+group_rank: 6
 team_collaborator: false
 
 
-title: Pranab Maji
-description: MTech student
-lastname: Maji
-publications: 'author^=*Pranab'
+title: Sarbojit Mukherjee
+description: Phd student
+lastname: Mukherjee
+publications:  
 
 teaser: >
     Pranab finished his MTech in July 2025. His research focused ....
     MS Thesis: 
     Model: 
 profile:
-    name: Pranab Maji
-    position: MTech Student 
+    name: Sarbojit Mukherjee
+    position: Phd Student 
     align: right
     image: #jihad_pic.jpg
 
 
     role: 
-    email: pranabmaji9903@gmail.com
+    email:  
     github: 
     orcid: 
     address: >
-        Durgapur<br />
-        India
+         
 ---
 
 Pranab was a MTech student in the Department of .....

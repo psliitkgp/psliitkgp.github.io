@@ -2,21 +2,21 @@
 layout: about
 inline: false
 group: Alumni
-group_rank: 5
+group_rank: 3
 team_collaborator: false
 
 
-title: Sarbojit Mukherjee
+title: Subhajit Jana
 description: Phd student
-lastname: Mukherjee
-publications:  
+lastname: Jana
+publications: 'author^=*Subhajit'
 
 teaser: >
-    Pranab finished his MTech in July 2025. His research focused ....
-    MS Thesis: 
+    Subhajit finished his.... 
+    Phd Thesis: 
     Model: 
 profile:
-    name: Sarbojit Mukherjee
+    name: Subhajit Maji
     position: Phd Student 
     align: right
     image: #jihad_pic.jpg
@@ -27,10 +27,10 @@ profile:
     github: 
     orcid: 
     address: >
-         
+        
 ---
 
-Pranab was a MTech student in the Department of .....
+Subhajit was a MTech student in the Department of .....
 
 ## Short Bio
 
