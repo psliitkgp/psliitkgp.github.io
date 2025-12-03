@@ -419,6 +419,36 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "members-biplab-dhara",
+          title: 'Biplab Dhara',
+          description: "PhD student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Biplab_Dhara";
+            },},{id: "members-biplab-mahapatra",
+          title: 'Biplab Mahapatra',
+          description: "PhD student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Biplab_Mahapatra";
+            },},{id: "members-ladli-patra",
+          title: 'Ladli_patra',
+          description: "",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Ladli_Patra";
+            },},{id: "members-pradip-patra",
+          title: 'Pradip Patra',
+          description: "PhD student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Pradip_Patra";
+            },},{id: "members-pranab-maji",
+          title: 'Pranab Maji',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Pranab_Maji%20copy%204";
+            },},{id: "members-pranab-maji",
+          title: 'Pranab Maji',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Pranab_Maji%20copy";
             },},{id: "members-pranab-maji",
           title: 'Pranab Maji',
           description: "MTech student",
@@ -439,6 +469,11 @@ ninja.data = [{
           description: "PhD student",
           section: "Members",handler: () => {
               window.location.href = "/members/Subhajit_Dutta";
+            },},{id: "members-somnath-pandit",
+          title: 'Somnath Pandit',
+          description: "PhD student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Susovan_Dey";
             },},{id: "news-congratulations-to-ms-renu-yadav-for-her-recent-publication-titled-anomalous-lasing-behavior-in-a-nonlinear-plasmonic-random-laser-in-acs-photonics",
           title: 'Congratulations to Ms. Renu Yadav for her recent publication titled “Anomalous Lasing Behavior...',
           description: "",
