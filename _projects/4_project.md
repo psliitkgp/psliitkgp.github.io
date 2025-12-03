@@ -1,10 +1,10 @@
 ---
 layout: page
 title: project 4
-description: another without an image
+description: another without an image. Some description about the project.
 img:
 importance: 3
-category: fun
+category: Completed
 ---
 
 Every project has a beautiful feature showcase page.
