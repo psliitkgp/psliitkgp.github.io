@@ -2,8 +2,9 @@
 layout: about
 inline: false
 group: Alumni
-group_rank: 4
+group_rank: 6
 team_collaborator: false
+year : 2025
 
 
 title: Renu Yadav
@@ -17,11 +18,9 @@ teaser: >
     Model: 
 profile:
     name: Renu Yadav
-    position: Phd Student 
+    position: 
     align: right
     image: #jihad_pic.jpg
-
-
     role: 
     email:  
     github: 

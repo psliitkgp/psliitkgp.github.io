@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: Graduate Students
-group_rank: 7
+group: PhD Students
+group_rank: 2
 team_collaborator: false
 
 

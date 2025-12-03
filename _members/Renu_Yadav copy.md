@@ -4,10 +4,10 @@ inline: false
 group: Alumni
 group_rank: 4
 team_collaborator: false
-
+year: 2024
 
 title: Renu Yadav
-description: Phd student
+description: PhD Students
 lastname: Yadav
 publications: 'author^=*Renu'
 
@@ -17,11 +17,9 @@ teaser: >
     Model: 
 profile:
     name: Renu Yadav
-    position: Phd Student 
+    position: 
     align: right
     image: #jihad_pic.jpg
-
-
     role: 
     email:  
     github: 

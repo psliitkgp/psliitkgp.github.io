@@ -32,6 +32,7 @@ latest_posts: false  # includes latest posts at the bottom of the page
 ---
 
 Details .. 
+
 ##  Bio
 ......
 

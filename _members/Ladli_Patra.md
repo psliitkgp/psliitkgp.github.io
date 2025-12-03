@@ -1,15 +1,15 @@
 ---
 layout: about
 inline: false
-group: Graduate Students
-group_rank: 4
+group: PhD Students
+group_rank: 2
 team_collaborator: false
 
 
 title: Ladli Patra
 description: PhD student
 lastname: Patra        
-publications:  
+publications:  'author^=*Ladli'
 
 teaser: >
    one line bio...
@@ -24,6 +24,7 @@ profile:
     orcid: 
     address: >
          
+---
 
 I am a PhD student ....
 

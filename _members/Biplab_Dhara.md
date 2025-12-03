@@ -1,15 +1,15 @@
 ---
 layout: about
 inline: false
-group: Graduate Students
-group_rank: 5
+group: PhD Students
+group_rank: 2
 team_collaborator: false
 
 
 title:  Biplab Dhara
 description: PhD student
 lastname: Dhara        
-publications:  
+publications: 'author^=*Biplab'
 
 teaser: >
     one line bio....

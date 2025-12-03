@@ -2,9 +2,9 @@
 layout: about
 inline: false
 group: Alumni
-group_rank: 2
+group_rank: 6
 team_collaborator: false
-
+year: 2024
 
 title: Romala Sattibabu
 description: Phd student
@@ -16,7 +16,7 @@ teaser: >
     MS Thesis: 
     Model: 
 profile:
-    name: Romala Maji
+    name: Romala Sattibabu
     position: Phd Student 
     align: right
     image: #jihad_pic.jpg

@@ -4,7 +4,7 @@ inline: false
 group: Alumni
 group_rank: 6
 team_collaborator: false
-
+year: 2024
 
 title: Sarbojit Mukherjee
 description: Phd student
