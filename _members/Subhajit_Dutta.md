@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Graduate Students
-group_rank: 1
+group_rank: 3
 team_collaborator: false
 
 
@@ -12,7 +12,8 @@ lastname: Dutta
 publications: 'author^=*Subhajit'
 
 teaser: >
-    enior Research Fellow at the Indian Institute of Technology, Kharagpur, contributing to advancements in On chip and on-fiber photonic and optoelectronic devices. The work involves designing, Fabrication, Analysis.
+    Senior Research Fellow at the Indian Institute of Technology, Kharagpur, contributing to advancements in On chip and on-fiber photonic and optoelectronic devices. The work involves designing, Fabrication, Analysis.
+
 profile:
     name: Subhajit Dutta
     position: Senior Research Scholar
