@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Graduate Students
-group_rank: 2
+group_rank: 1
 team_collaborator: false
 
 

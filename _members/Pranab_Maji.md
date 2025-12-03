@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Alumni
-group_rank: 5
+group_rank: 1
 team_collaborator: false
 
 

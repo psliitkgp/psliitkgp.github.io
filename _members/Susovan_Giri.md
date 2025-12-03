@@ -6,26 +6,24 @@ group_rank: 3
 team_collaborator: false
 
 
-title: Somnath Pandit
+title: Susovan Giri
 description: PhD student
-lastname: Pandit        
-publications: 'author^=*Somnath'
+lastname: Giri        
+publications: 'author^=*Susovan'
 
 teaser: >
-    Somnath is a graduate ...
+    Susovan is a graduate ...
 profile:
-    name: Somnath Pandit
+    name: Susovan Giri
     position: Doctoral Student 
     align: right
     image: #PLCG_profile.jpg
     role: 
-    email: panditsomnath@kgpian.iitkgp.ac.in
-    github: 
+    email:  
+    github:  
     orcid: 
     address: >
-        School of Nanoscience and Technology<br />
-        Indian Institute of Technology Kharagpur<br />
-        WB, India.
+         
 ---
 
 I am a PhD student ....
