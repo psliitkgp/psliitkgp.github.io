@@ -439,11 +439,26 @@ ninja.data = [{
           description: "PhD student",
           section: "Members",handler: () => {
               window.location.href = "/members/Pradip_Patra";
+            },},{id: "members-sarbojit-mukherjee",
+          title: 'Sarbojit Mukherjee',
+          description: "Phd student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Pranab_Maji%20copy%202";
+            },},{id: "members-pranab-maji",
+          title: 'Pranab Maji',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Pranab_Maji%20copy%203";
             },},{id: "members-pranab-maji",
           title: 'Pranab Maji',
           description: "MTech student",
           section: "Members",handler: () => {
               window.location.href = "/members/Pranab_Maji%20copy%204";
+            },},{id: "members-pranab-maji",
+          title: 'Pranab Maji',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Pranab_Maji%20copy%205";
             },},{id: "members-pranab-maji",
           title: 'Pranab Maji',
           description: "MTech student",
