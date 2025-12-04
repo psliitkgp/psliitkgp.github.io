@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Faculty
+group: Group Leader
 group_rank: 1
 group_order: 1
 
