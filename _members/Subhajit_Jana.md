@@ -27,13 +27,12 @@ profile:
     github: 
     orcid: 
     address: >
-        
 ---
 
-Subhajit was a MTech student in the Department of .....
+Subhajit was a ... student in the Department of .....
 
 ## Short Bio
 
-... has completed the degree in Summer 2025. Currrently ......
+... has completed the degree in .... Currrently ......
 
 ## Publication

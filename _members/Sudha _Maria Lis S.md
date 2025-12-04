@@ -27,13 +27,12 @@ profile:
     github: 
     orcid: 
     address: >
-        
 ---
 
 Sudha was a Phd student in the Department of .....
 
 ## Short Bio
 
-... has completed the degree in Summer 2025. Currrently ......
+... has completed the degree in .... Currrently ......
 
 ## Publication

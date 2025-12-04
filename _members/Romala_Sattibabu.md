@@ -27,13 +27,12 @@ profile:
     github: 
     orcid: 
     address: >
-         
 ---
 
-Romala was a Phd student in the Department of .....
+Romala was a  .....
 
 ## Short Bio
 
-... has completed the degree in Summer 2025. Currrently ......
+... has completed the degree in ...... Currrently ......
 
 ## Publication

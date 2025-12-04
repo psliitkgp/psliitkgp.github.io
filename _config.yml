@@ -204,6 +204,10 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _members/MTech_alumni
+  - _members/MTech_current
+  - _members/PhD_alumni
+  - _members/PhD_current
 keep_files:
   - CNAME
   - .nojekyll
