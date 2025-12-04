@@ -419,6 +419,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "members-aman",
+          title: 'Aman',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Aman";
             },},{id: "members-biplab-dhara",
           title: 'Biplab Dhara',
           description: "PhD student",
@@ -434,6 +439,16 @@ ninja.data = [{
           description: "PhD student",
           section: "Members",handler: () => {
               window.location.href = "/members/Ladli_Patra";
+            },},{id: "members-lavkush-patel",
+          title: 'Lavkush Patel',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Lavkush_Patel";
+            },},{id: "members-name",
+          title: 'Name',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Mtech_current";
             },},{id: "members-pradip-patra",
           title: 'Pradip Patra',
           description: "PhD student",
@@ -444,11 +459,6 @@ ninja.data = [{
           description: "MTech student",
           section: "Members",handler: () => {
               window.location.href = "/members/Pranab_Maji";
-            },},{id: "members-renu-yadav",
-          title: 'Renu Yadav',
-          description: "PhD Students",
-          section: "Members",handler: () => {
-              window.location.href = "/members/Renu_Yadav%20copy";
             },},{id: "members-renu-yadav",
           title: 'Renu Yadav',
           description: "Phd student",
@@ -464,6 +474,11 @@ ninja.data = [{
           description: "Phd student",
           section: "Members",handler: () => {
               window.location.href = "/members/Sarbojit_Mukherjee";
+            },},{id: "members-sasmita-sen",
+          title: 'Sasmita Sen',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Sasmita_Sen";
             },},{id: "members-shivakiran-b-n-bhaktha",
           title: 'Shivakiran B. N. Bhaktha',
           description: "Profile of Shivakiran B. N. Bhaktha, PI",
