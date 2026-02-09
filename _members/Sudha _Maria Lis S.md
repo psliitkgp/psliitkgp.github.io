@@ -20,7 +20,7 @@ profile:
     name: Sudha Maria Lis S
     position: Researcher level 3, CNR-IFN, Institute of Photonics and Nanotechnologies - Trento
     align: right
-    image: Sudha.jpg
+    image: team/Sudha_Maria.jpg
     role: 
     email: sscaria@fbk.eu, sudhamarialis.scaria@cnr.it
     github: 
@@ -70,3 +70,6 @@ Affiliated to Mahatma Gandhi University, Kottayam, Kerala	<br />
 **Alphonsa College, Pala** <br />	
 Affiliated to Mahatma Gandhi University, Kottayam, Kerala<br />		
 **2009-2012**
+
+
+*Updated: Feb 09, 2026*

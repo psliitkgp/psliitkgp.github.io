@@ -17,7 +17,7 @@ profile:
     name: Somnath Pandit
     position: Senior Research Fellow
     align: right
-    image: Somnath_Pandit.jpg
+    image: team/Somnath_Pandit.jpg
     role: 
     email: panditsomnath@kgpian.iitkgp.ac.in
     linkedin: panditsomnath10016
@@ -37,3 +37,7 @@ After my BSc degree from Ramakrishna Mission Vivekananda Centenary College, Raha
 More than being fascinated by the underlying laws of the universe and the challenge of understanding it, the history of science and how it has shaped human civilization overwhelms me. I got attracted to the field of photonics during my higher studies for its potential to handle the exponential demand for computing power, its promise of new-age sensing technologies, and its opportunity to test the theories of physics itself.
 
 My primary research focus is on developing ultrasensitive sensors based on the photonic-crystal platform, with potential applications in healthcare, agriculture, and environmental monitoring.
+
+
+
+*Updated: Feb 09, 2026*

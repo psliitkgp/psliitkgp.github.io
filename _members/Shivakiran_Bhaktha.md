@@ -17,7 +17,7 @@ profile:
     name: Shivakiran B. N. Bhaktha
     position: Principle Investigator
     align: right
-    image: sir.png
+    image: team/Shivakiran_Bhaktha.jpg
     email: kiranbhaktha@phy.iitkgp.ac.in 
     website: https://www.iitkgp.ac.in/department/PH/faculty/ph-kiranbhaktha
     orcid: 0000-0003-4846-8262
@@ -34,5 +34,7 @@ latest_posts: false  # includes latest posts at the bottom of the page
 Details .. 
 
 ##  Bio
-......
+
+
+*Updated: Feb 09, 2026*
 
