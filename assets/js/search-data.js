@@ -434,21 +434,16 @@ ninja.data = [{
           description: "PhD student",
           section: "Members",handler: () => {
               window.location.href = "/members/Biplab_Mahapatra";
-            },},{id: "members-ladli-patra",
-          title: 'Ladli Patra',
-          description: "PhD student",
-          section: "Members",handler: () => {
-              window.location.href = "/members/Ladli_Patra";
             },},{id: "members-lavkush-patel",
           title: 'Lavkush Patel',
           description: "MTech student",
           section: "Members",handler: () => {
               window.location.href = "/members/Lavkush_Patel";
-            },},{id: "members-name",
-          title: 'Name',
+            },},{id: "members-minhaj-munshi",
+          title: 'Minhaj Munshi',
           description: "MTech student",
           section: "Members",handler: () => {
-              window.location.href = "/members/Mtech_current";
+              window.location.href = "/members/Minhaj_Munsi";
             },},{id: "members-pradip-patra",
           title: 'Pradip Patra',
           description: "PhD student",
