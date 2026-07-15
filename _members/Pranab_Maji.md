@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: Alumni
-group_rank: 6
+group: Alumni (MTech)
+group_rank: 7
 team_collaborator: false
 year: 2024
 
@@ -35,4 +35,4 @@ Pranab was a MTech student in the Department of .....
 
 ... has completed the degree in Summer 2025. Currrently ......
 
-## Publication
+*Updated: Feb 09, 2026*

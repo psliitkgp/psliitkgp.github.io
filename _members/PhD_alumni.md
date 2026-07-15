@@ -6,28 +6,32 @@ group_rank: 6
 team_collaborator: false
 year: 2024
 
-title: Romala Sattibabu
+title: 
 description: Phd student
-lastname: Sattibabu
-publications: 'author^=*Romala'
+lastname: 
+publications:  
 
 teaser: >
-    Romala finished her Phd in.... Her research focused ....
-    MS Thesis:Design and Fabrication of Titanium indiffused Lithium Niobate based Integrated Optic Devices 
+    Thesis: 
     Model: 
 profile:
-    name: Romala Sattibabu
-    position:  #current position
+    name: Sarbojit Mukherjee
+    position: Phd Student 
     align: right
     image: #jihad_pic.jpg
+
+
     role: 
-    email: 
+    email:  
     github: 
     orcid: 
     address: >
+    
+social: true  # includes social icons at the bottom of the page
+latest_posts: false  # includes latest posts at the bottom of the page        
 ---
 
-Romala was a  .....
+....student in the Department of .....
 
 ## Short Bio
 

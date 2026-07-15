@@ -18,7 +18,7 @@ profile:
     name: Subhajit Dutta
     position: Senior Research Scholar
     align: right
-    image: subhajit_dutta.jpg
+    image: team/Subhajit_Dutta.jpg
     role: 
     email: subhajitdutta763@gmail.com
     gscholar: DGRgr2QAAAAJ 
@@ -35,7 +35,7 @@ profile:
  Whispering Gallery Resonator, Flexible Microlaser of shape Microbottle, disc, spherical. WGM based sensor.
 
 ### Skills
- Electron Beam Lithography, UV Photolithography, Optical Fiber modification, Matlab, Origin, Comsol ,Lumerical, Clewin 5, Spectroscopy, Microscopy, Maskless Lithography, Laser Writing, Chip testing End fire Coupling setup.S
+ Electron Beam Lithography, UV Photolithography, Optical Fiber modification, Matlab, Origin, Comsol ,Lumerical, Clewin 5, Spectroscopy, Microscopy, Maskless Lithography, Laser Writing, Chip testing End fire Coupling setup.
 
 
-
+*Updated: Feb 09, 2026*
