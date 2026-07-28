@@ -6,7 +6,7 @@ description: Current and completed projects.
 nav: true
 nav_order: 3
 display_categories: [Ongoing, Completed]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
