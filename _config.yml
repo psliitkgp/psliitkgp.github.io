@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: psl, photonic, systems, lab, iitkgp, Shivakiran, Bhaktha, Indian, insititute, technology, kharagpur, jekyll, academic-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: psl_logo.jpeg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: mnpl.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://psliitkgp.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -200,6 +200,9 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/blog.md
+  - _posts/
+  - _books/
   - purgecss.config.js
   - README.md
   - readme_preview/

@@ -6,11 +6,10 @@ subtitle: <a href='https://www.iitkgp.ac.in/department/PH/'>Department of Physic
 
 profile:
   align: right
-  image: psl_logo.jpeg
+  image: MNPL_logo.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Kharagpur, India - 721302</p>
-    <p><a href='https://www.iitkgp.ac.in/department/PH/faculty/ph-kiranbhaktha'>Dr. Shivakiran B. N. Bhaktha</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
@@ -55,9 +54,9 @@ At the Micro-Nano Photonics Lab, we work on light-matter interaction in ORDERED 
   </tr>
 </table>
 
+<br>
 
-
-
+Group leader: <a href='https://www.iitkgp.ac.in/department/PH/faculty/ph-kiranbhaktha'>Prof. Shivakiran B. N. Bhaktha</a>
 
 
 
