@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Kharagpur, India - 721302</p>
+    <p><a href='https://www.iitkgp.ac.in/department/PH/faculty/ph-kiranbhaktha'>Dr. Shivakiran B. N. Bhaktha</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
@@ -29,8 +30,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Welcome to Photonics Systems Laboratory led by <a href='https://www.iitkgp.ac.in/department/PH/faculty/ph-kiranbhaktha'>Dr. Shivakiran B. N. Bhaktha</a>. We work in the area of _ordered_ and _disordered_ Photonics. Periodic and random structures are fabricated and studied in our lab to understand the behaviour of light in these systems, and also for the development of photonic devices. 
-Some of our primary research interests include:
+
+At the Micro-Nano Photonics Lab, we work on light-matter interaction in ORDERED and DISORDERED Photonics. Periodic and random structures are fabricated and studied using a variety of optical techniques to understand light confinement in them. Some of our primary research interests include:
 
 <table>
   <tr>
