@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Alumni (MTech)
-group_rank: 7
+group_rank: 6
 team_collaborator: false
 year: 2024
 
@@ -19,7 +19,7 @@ profile:
     name: Pranab Maji
     position: MTech Student 
     align: right
-    image: #jihad_pic.jpg
+    image: #pic.jpg
     role: 
     email: pranabmaji9903@gmail.com
     github: 

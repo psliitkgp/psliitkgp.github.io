@@ -9,6 +9,17 @@ nav_order: 6
 
 We are looking for highly motivated research scholars and post-doctoral fellows, with a passion for optics and photonics. Please get in touch with us for timely updates.
 
+
+#### Contact
+Prof. Shivakiran Bhaktha B. N.\\
+Professor\\
+Department of Physics\\
+School of Nano Science and Technology\\
+Indian Institute of Technology Kharagpur,\\
+Kharagpur - 721 302, India.\\
+Phone: +91-3222-283802, Fax: +91-3222-282286\\
+E-mail: <a href="mailto:kiranbhaktha@phy.iitkgp.ac.in">kiranbhaktha@phy.iitkgp.ac.in</a>; <a href="mailto:kiranbhaktha@gmail.com">kiranbhaktha@gmail.com</a>
+
 ---
 <!-- Social -->
 <div class="social">

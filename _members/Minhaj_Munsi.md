@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Alumni (MTech)
-group_rank: 7
+group_rank: 6
 team_collaborator: false
 year: 2025
 

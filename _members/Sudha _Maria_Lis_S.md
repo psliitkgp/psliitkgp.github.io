@@ -2,17 +2,18 @@
 layout: about
 inline: false
 group: Alumni (PhD)
-group_rank: 6
+group_rank: 4
 team_collaborator: false
 year: 2024
 
 
 title: Sudha Maria Lis S
-description: Phd student
+description: PhD student
 lastname: Maria Lis S
 publications: 'author^=*Sudha'
 
 teaser: >
+    Completed her PhD on Jan 2024.<br>
     Nanophotonics.
     PhD Thesis: Nano-engineering of Photonic Crystal Platform Aided Enhancement of Surface, Tamm and Microcavity States.
     
@@ -72,4 +73,4 @@ Affiliated to Mahatma Gandhi University, Kottayam, Kerala<br />
 **2009-2012**
 
 
-*Updated: Feb 09, 2026*
+*Updated: July 28, 2026*

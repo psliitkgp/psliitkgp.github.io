@@ -19,7 +19,7 @@ profile:
     name: Sakshi Sharma
     position: MTech Student 
     align: right
-    image: #jihad_pic.jpg
+    image: #pic.jpg
     role: 
     email: 
     github: 

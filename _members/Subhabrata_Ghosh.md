@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Alumni
+group: Alumni (PhD)
 group_rank: 4
 team_collaborator: false
 year: 2018
@@ -12,26 +12,21 @@ lastname: Das
 publications: 'author^=*Subhabrata'
 
 teaser: >
-    Subhabrata Ghosh ..... 
-    Phd Thesis:Europium Doped Zinc Oxide and Graphene Oxide Integrated Glasses and Glass-Ceramics for Integrated Optics
-    Model: 
+    Completed his PhD on Jul 2018.<br>
+    PhD Thesis: Europium Doped Zinc Oxide and Graphene Oxide Integrated Glasses and Glass-Ceramics for Integrated Optics.
 profile:
     name: Subhabrata Ghosh 
-    position: 
+    position: Senior Scientist, PicoQuant GmbH
     align: right
-    image: #jihad_pic.jpg
+    image: team/subhabrata_ghosh.jpg
     role: 
-    email:  
+    email: subhabrataghosh13@gmail.com
     github: 
     orcid: 
+    linkedin: subhaghosh
     address: >
+        Berlin, Germany
          
 ---
 
-Subhabrata was a Phd student in the Department of .....
-
-## Short Bio
-
-... has completed the degree in Summer 2025. Currrently ......
-
-## Publication
+*Updated: July 28, 2026*

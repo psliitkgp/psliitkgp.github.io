@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Alumni
+group: Alumni (MTech)
 group_rank: 6
 team_collaborator: false
 year: 2020
@@ -19,7 +19,7 @@ profile:
     name: Brijesh Kumar
     position: MTech Student 
     align: right
-    image: #jihad_pic.jpg
+    image: #pic.jpg
     role: 
     email: 
     github: 

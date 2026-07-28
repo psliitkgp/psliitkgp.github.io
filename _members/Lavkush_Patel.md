@@ -1,10 +1,10 @@
 ---
 layout: about
 inline: false
-group: MTech Students
-group_rank: 3
+group: Alumni (MTech)
+group_rank: 6
 team_collaborator: false
-year: 
+year: 2026
 
 title: Lavkush Patel
 description: MTech student

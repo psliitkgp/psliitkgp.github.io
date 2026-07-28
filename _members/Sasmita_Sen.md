@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Alumni (MTech)
-group_rank: 7
+group_rank: 6
 team_collaborator: false
 year: 2026
 
@@ -18,7 +18,7 @@ profile:
     name: Sasmita Sen
     position: MTech Student 
     align: right
-    image: #jihad_pic.jpg
+    image: #pic.jpg
     role: 
     email: 
     github: 

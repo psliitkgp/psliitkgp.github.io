@@ -1,10 +1,10 @@
 ---
 layout: about
 inline: false
-group: Alumni
+group: Alumni (PhD)
 group_rank: 4
 team_collaborator: false
-year: 2021
+year: 2020
 
 title: Rup Kumar Chowdhury
 description: PhD Students
@@ -12,26 +12,23 @@ lastname: Chowdhury
 publications: 'author^=*Rup Kumar'
 
 teaser: >
-    Rup Kumar finished ..... 
-    Phd Thesis:Ultrafast Studies on Light-Matter Interactions in Layered Transition Metal Disulfides for Photonics 
-    Model: 
+    Completed his PhD on Aug 2020.<br>
+    PhD Thesis: Ultrafast Studies on Light-Matter Interactions in Layered Transition Metal Disulfides for Photonics.
 profile:
     name: Rup Kumar Chowdhury
-    position: 
+    position: Scientist at CSIR - National Physical Laboratory
     align: right
-    image: #jihad_pic.jpg
+    image: team/rup_kumar_chowdhury.jpg
     role: 
-    email:  
+    email: rup.nplindia@csir.res.in
     github: 
     orcid: 
+    linkedin: rup-kumar-chowdhury-90ab05144
     address: >
-         
+         Delhi, India
 ---
 
-Reru was a MTech student in the Department of .....
+**Research interest:** Quantum Optics, Ultrafast spectroscopy, SNSPD, Photonics, 2D Materials 
 
-## Short Bio
 
-... has completed the degree in Summer 2025. Currrently ......
-
-## Publication
+*Updated: July 28, 2026*

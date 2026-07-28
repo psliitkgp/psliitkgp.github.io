@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Alumni
+group: Alumni (PhD)
 group_rank: 4
 team_collaborator: false
 year: 2017
@@ -12,26 +12,23 @@ lastname: Sarkar
 publications: 'author^=*Anirban'
 
 teaser: >
-    Anirban Sarkar ..... 
-    Phd Thesis:INVESTIGATIONS ON LASING MODES IN WEAKLY SCATTERING POLYMER AND OPTOFLUIDIC RANDOM STRUCTURES
-    Model: 
+    Completed his PhD on Nov 2017.<br>
+    PhD Thesis: Investigations on Lasing Modes in Weakly Scattering Polymer and Optofluidic Random Structures.
 profile:
     name: Anirban Sarkar 
-    position: 
+    position: Assistant Professor, Department of Physics, National institute of Technology Calicut, India
     align: right
-    image: #jihad_pic.jpg
+    image: team/anirban_sarkar.jpg
     role: 
-    email:  
+    email: anirban@nitc.ac.in
     github: 
     orcid: 
+    linkedin: 
+    website: https://sites.google.com/nitc.ac.in/lsi-group/home
     address: >
-         
+         Kozhikode - 673 601, Kerala, India
 ---
 
-Anirban was a Phd student in the Department of .....
+Visit his website for details at <a>[https://sites.google.com/nitc.ac.in/lsi-group/home](https://sites.google.com/nitc.ac.in/lsi-group/home)
 
-## Short Bio
-
-... has completed the degree in Summer 2025. Currrently ......
-
-## Publication
+*Updated: July 28, 2026*

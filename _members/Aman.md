@@ -1,10 +1,10 @@
 ---
 layout: about
 inline: false
-group: MTech Students
-group_rank: 3
+group: Alumni (MTech)
+group_rank: 6
 team_collaborator: false
-year: 
+year: 2026
 
 title: Aman
 description: MTech student
@@ -18,7 +18,7 @@ profile:
     name: Aman
     position: MTech Student 
     align: right
-    image: #jihad_pic.jpg
+    image: #pic.jpg
     role: 
     email: 
     github: 
