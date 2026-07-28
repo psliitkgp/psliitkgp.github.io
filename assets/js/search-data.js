@@ -37,43 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/members/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "Bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "Blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
-        
-          title: "a post with plotly.js",
-        
-        description: "this is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
-        
-          title: "a post with image galleries",
-        
-        description: "this is what included image galleries could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/photo-gallery/";
-          
-        },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -82,226 +46,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-a-post-with-tabs",
-        
-          title: "a post with tabs",
-        
-        description: "this is what included tabs in a post could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/tabs/";
-          
-        },
-      },{id: "post-a-post-with-typograms",
-        
-          title: "a post with typograms",
-        
-        description: "this is what included typograms code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/typograms/";
-          
-        },
-      },{id: "post-a-post-that-can-be-cited",
-        
-          title: "a post that can be cited",
-        
-        description: "this is what a post that can be cited looks like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/post-citation/";
-          
-        },
-      },{id: "post-a-post-with-pseudo-code",
-        
-          title: "a post with pseudo code",
-        
-        description: "this is what included pseudo code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/pseudocode/";
-          
-        },
-      },{id: "post-a-post-with-code-diff",
-        
-          title: "a post with code diff",
-        
-        description: "this is how you can display code diffs",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/code-diff/";
-          
-        },
-      },{id: "post-a-post-with-advanced-image-components",
-        
-          title: "a post with advanced image components",
-        
-        description: "this is what advanced image components could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/advanced-images/";
-          
-        },
-      },{id: "post-a-post-with-vega-lite",
-        
-          title: "a post with vega lite",
-        
-        description: "this is what included vega lite code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/vega-lite/";
-          
-        },
-      },{id: "post-a-post-with-geojson",
-        
-          title: "a post with geojson",
-        
-        description: "this is what included geojson code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/geojson-map/";
-          
-        },
-      },{id: "post-a-post-with-echarts",
-        
-          title: "a post with echarts",
-        
-        description: "this is what included echarts code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/echarts/";
-          
-        },
-      },{id: "post-a-post-with-chart-js",
-        
-          title: "a post with chart.js",
-        
-        description: "this is what included chart.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/chartjs/";
-          
-        },
-      },{id: "post-a-post-with-tikzjax",
-        
-          title: "a post with TikZJax",
-        
-        description: "this is what included TikZ code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/tikzjax/";
-          
-        },
-      },{id: "post-a-post-with-bibliography",
-        
-          title: "a post with bibliography",
-        
-        description: "an example of a blog post with bibliography",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/post-bibliography/";
-          
-        },
-      },{id: "post-a-post-with-jupyter-notebook",
-        
-          title: "a post with jupyter notebook",
-        
-        description: "an example of a blog post with jupyter notebook",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/jupyter-notebook/";
-          
-        },
-      },{id: "post-a-post-with-custom-blockquotes",
-        
-          title: "a post with custom blockquotes",
-        
-        description: "an example of a blog post with custom blockquotes",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/custom-blockquotes/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-        
-          title: "a post with table of contents on a sidebar",
-        
-        description: "an example of a blog post with table of contents on a sidebar",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/sidebar-table-of-contents/";
-          
-        },
-      },{id: "post-a-post-with-audios",
-        
-          title: "a post with audios",
-        
-        description: "this is what included audios could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/audios/";
-          
-        },
-      },{id: "post-a-post-with-videos",
-        
-          title: "a post with videos",
-        
-        description: "this is what included videos could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/videos/";
-          
-        },
-      },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
-        
-          title: "displaying beautiful tables with Bootstrap Tables",
-        
-        description: "an example of how to use Bootstrap Tables",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/tables/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents",
-        
-          title: "a post with table of contents",
-        
-        description: "an example of a blog post with table of contents",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/table-of-contents/";
-          
-        },
-      },{id: "post-a-post-with-giscus-comments",
-        
-          title: "a post with giscus comments",
-        
-        description: "an example of a blog post with giscus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2022/giscus-comments/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -315,115 +59,21 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "post-a-post-with-redirect",
-        
-          title: "a post with redirect",
-        
-        description: "you can also redirect to assets like pdf",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/assets/pdf/example_pdf.pdf";
-          
-        },
-      },{id: "post-a-post-with-diagrams",
-        
-          title: "a post with diagrams",
-        
-        description: "an example of a blog post with diagrams",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021/diagrams/";
-          
-        },
-      },{id: "post-a-distill-style-blog-post",
-        
-          title: "a distill-style blog post",
-        
-        description: "an example of a distill-style blog post and main elements",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021/distill/";
-          
-        },
-      },{id: "post-a-post-with-twitter",
-        
-          title: "a post with twitter",
-        
-        description: "an example of a blog post with twitter",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2020/twitter/";
-          
-        },
-      },{id: "post-a-post-with-disqus-comments",
-        
-          title: "a post with disqus comments",
-        
-        description: "an example of a blog post with disqus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/disqus-comments/";
-          
-        },
-      },{id: "post-a-post-with-math",
-        
-          title: "a post with math",
-        
-        description: "an example of a blog post with some math",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/math/";
-          
-        },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/code/";
-          
-        },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/images/";
-          
-        },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/formatting-and-links/";
-          
-        },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "members-aman",
+      },{id: "members-aman",
           title: 'Aman',
           description: "MTech student",
           section: "Members",handler: () => {
               window.location.href = "/members/Aman";
+            },},{id: "members-anirban-sarkar",
+          title: 'Anirban Sarkar',
+          description: "PhD Students",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Anirban_Sarkar";
+            },},{id: "members-arijit-sarkar",
+          title: 'Arijit Sarkar',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Arijit_Sarkar";
             },},{id: "members-biplab-dhara",
           title: 'Biplab Dhara',
           description: "PhD student",
@@ -434,6 +84,21 @@ ninja.data = [{
           description: "PhD student",
           section: "Members",handler: () => {
               window.location.href = "/members/Biplab_Mahapatra";
+            },},{id: "members-brijesh-kumar",
+          title: 'Brijesh Kumar',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Brijesh_Kumar";
+            },},{id: "members-chitrakanti-shahin",
+          title: 'Chitrakanti Shahin',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Chitrakanti_Shahin";
+            },},{id: "members-kumara-raja-kandula",
+          title: 'Kumara Raja Kandula',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Kumara_Raja%20Kandula";
             },},{id: "members-lavkush-patel",
           title: 'Lavkush Patel',
           description: "MTech student",
@@ -444,6 +109,16 @@ ninja.data = [{
           description: "MTech student",
           section: "Members",handler: () => {
               window.location.href = "/members/Minhaj_Munsi";
+            },},{id: "members-n-n-subhashree-ojha",
+          title: 'N.N. Subhashree Ojha',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/N.N.%20Subhashree_Ojha";
+            },},{id: "members-pallabi-gogoi",
+          title: 'Pallabi Gogoi',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Pallabi_Gogoi";
             },},{id: "members-pradip-patra",
           title: 'Pradip Patra',
           description: "PhD student",
@@ -454,19 +129,44 @@ ninja.data = [{
           description: "MTech student",
           section: "Members",handler: () => {
               window.location.href = "/members/Pranab_Maji";
+            },},{id: "members-prathul-nath-p-p",
+          title: 'Prathul Nath P. P.',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Prathul_Nath%20P.%20P";
+            },},{id: "members-pratyusha-das",
+          title: 'Pratyusha Das',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Pratyusha_Das";
+            },},{id: "members-priyanka-s-choubey",
+          title: 'Priyanka S. Choubey',
+          description: "PhD Student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Priyanka%20_S_Choubey";
             },},{id: "members-renu-yadav",
           title: 'Renu Yadav',
-          description: "Phd student",
+          description: "PhD student",
           section: "Members",handler: () => {
               window.location.href = "/members/Renu_Yadav";
             },},{id: "members-romala-sattibabu",
           title: 'Romala Sattibabu',
-          description: "Phd student",
+          description: "PhD student",
           section: "Members",handler: () => {
               window.location.href = "/members/Romala_Sattibabu";
+            },},{id: "members-rup-kumar-chowdhury",
+          title: 'Rup Kumar Chowdhury',
+          description: "PhD Students",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Rup_Kumar%20Chowdhury";
+            },},{id: "members-sakshi-sharma",
+          title: 'Sakshi Sharma',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Sakshi_Sharma%20";
             },},{id: "members-sarbojit-mukherjee",
           title: 'Sarbojit Mukherjee',
-          description: "Phd student",
+          description: "PhD student",
           section: "Members",handler: () => {
               window.location.href = "/members/Sarbojit_Mukherjee";
             },},{id: "members-sasmita-sen",
@@ -484,6 +184,16 @@ ninja.data = [{
           description: "PhD student",
           section: "Members",handler: () => {
               window.location.href = "/members/Somnath_Pandit";
+            },},{id: "members-soumyajyoti-mallick",
+          title: 'Soumyajyoti Mallick',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Soumyajyoti_Mallick";
+            },},{id: "members-subhabrata-ghosh",
+          title: 'Subhabrata Ghosh',
+          description: "PhD Students",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Subhabrata_Ghosh";
             },},{id: "members-subhajit-dutta",
           title: 'Subhajit Dutta',
           description: "PhD student",
@@ -491,19 +201,24 @@ ninja.data = [{
               window.location.href = "/members/Subhajit_Dutta";
             },},{id: "members-subhajit-jana",
           title: 'Subhajit Jana',
-          description: "Phd student",
+          description: "PhD student",
           section: "Members",handler: () => {
               window.location.href = "/members/Subhajit_Jana";
             },},{id: "members-sudha-maria-lis-s",
           title: 'Sudha Maria Lis S',
-          description: "Phd student",
+          description: "PhD student",
           section: "Members",handler: () => {
-              window.location.href = "/members/Sudha%20_Maria%20Lis%20S";
+              window.location.href = "/members/Sudha%20_Maria_Lis_S";
             },},{id: "members-susovan-giri",
           title: 'Susovan Giri',
           description: "PhD student",
           section: "Members",handler: () => {
               window.location.href = "/members/Susovan_Giri";
+            },},{id: "members-vaibhav-chaturvedi",
+          title: 'Vaibhav Chaturvedi',
+          description: "MTech student",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Vaibhav_Chaturvedi";
             },},{id: "news-congratulations-to-ms-renu-yadav-for-her-recent-publication-titled-anomalous-lasing-behavior-in-a-nonlinear-plasmonic-random-laser-in-acs-photonics",
           title: 'Congratulations to Ms. Renu Yadav for her recent publication titled “Anomalous Lasing Behavior...',
           description: "",
@@ -513,36 +228,86 @@ ninja.data = [{
           section: "News",},{id: "news-congratulaitons-to-mr-subhajit-dutta-for-his-latest-publication-on-spectral-dynamics-of-a-microbottle-laser-under-thermal-perturbation-in-optical-materials",
           title: 'Congratulaitons to Mr. Subhajit Dutta for his latest publication on “Spectral dynamics of...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-green-photonics-using-semiconductor-nanostructures",
+          title: 'Green photonics using semiconductor nanostructures',
+          description: "DST-ITPAR (01.08.2013 – 31.12.2016)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/project1/";
+            },},{id: "projects-optical-fiber-based-solar-illumination-of-pit-bottom-and-underground-mine-roadways-and-working-face",
+          title: 'Optical Fiber Based Solar Illumination of Pit Bottom and Underground Mine Roadways and...',
+          description: "CMPDI, CIL (01.08.2017 – 31.01.2021)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image. Some description about the project.",
+              window.location.href = "/projects/project10/";
+            },},{id: "projects-development-of-wearable-on-chip-spectrometer-for-monitoring-respiratory-motion",
+          title: 'Development of Wearable On-Chip Spectrometer for Monitoring Respiratory Motion',
+          description: "DST (13.09.2018 – 12.03.2021)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/project11/";
+            },},{id: "projects-development-of-random-laser-spectroscopy-as-a-probe-to-study-the-evolution-of-polymer-thin-films",
+          title: 'Development of Random Laser Spectroscopy as a Probe to Study the Evolution of...',
+          description: "SERB (24.02.2021 – 23.02.2024)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+              window.location.href = "/projects/project12/";
+            },},{id: "projects-design-and-development-of-optical-interconnects",
+          title: 'Design and development of optical interconnects',
+          description: "ISRO (24.07.2023 – 24.07.2025)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/projects/project13/";
+            },},{id: "projects-dst-fist-for-near-field-scanning-optical-microscope",
+          title: 'DST-FIST for Near-Field Scanning Optical Microscope',
+          description: "DST (03.03.2023 – 18.05.2028)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/project14/";
+            },},{id: "projects-investigating-the-potential-of-cavity-optomechanics-in-microwave-oscillation-and-frequency-comb-generation",
+          title: 'Investigating the Potential of Cavity Optomechanics in Microwave Oscillation and Frequency Comb Generation...',
+          description: "STARS-MoE (29.05.2024 – 28.05.2027)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project15/";
+            },},{id: "projects-development-of-portable-photonic-crystal-bloch-surface-wave-sensors-for-the-detection-of-dithiocarbamate-pesticides-in-agri-food-systems",
+          title: 'Development of Portable Photonic Crystal Bloch Surface Wave Sensors for the Detection of...',
+          description: "DST (17.04.2025 - 16.04.2028)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project16/";
+            },},{id: "projects-studies-on-ultrafast-processes-in-electronics-spintronics-magnonics-and-photonics",
+          title: 'Studies on ultrafast processes in electronics, spintronics, magnonics and photonics',
+          description: "IIT-Kharagpur (01-08-2014 – 31.07.2017)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project2/";
+            },},{id: "projects-micro-nano-manufacturing-and-characterization-facility-for-robotics-in-nano-scale-manipulation",
+          title: 'Micro/Nano manufacturing and characterization facility for robotics in nano-scale manipulation',
+          description: "IIT-Kharagpur (24-02-2015 – 23.02.2018)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project3/";
+            },},{id: "projects-study-of-double-pulse-laser-ignition-of-an-atomized-fuel-air-mixture",
+          title: 'Study of Double Pulse Laser Ignition of an Atomized Fuel-air Mixture',
+          description: "SERB (07.03.2020 – 06.03.2023)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project4/";
+            },},{id: "projects-generation-of-exciton-polariton-laser-using-two-dimensional-semiconductor-embedded-optical-microcavity",
+          title: 'Generation of Exciton-polariton Laser using Two Dimensional Semiconductor Embedded Optical Microcavity',
+          description: "SERB (27.03.2020 – 26.03.2023)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project5/";
+            },},{id: "projects-on-chip-nanophotonic-sources-stabilized-frequency-comb-and-plasmonic-microcavity-sources",
+          title: 'On-Chip Nanophotonic Sources- Stabilized Frequency Comb and Plasmonic Microcavity Sources',
+          description: "DST, MEITY (01.04.2018 – 29.02.2024)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project6/";
+            },},{id: "projects-solid-state-quantum-optical-devices-using-2d-materials",
+          title: 'Solid State Quantum Optical Devices using 2D Materials',
+          description: "MHRD-STARS (10.06.2020 – 09.06.2024)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project7/";
+            },},{id: "projects-development-of-rare-earth-doped-low-loss-glass-ceramic-waveguides-by-sol-gel-technique-for-photonics-applications",
+          title: 'Development of Rare-Earth Doped Low-Loss Glass-Ceramic Waveguides by Sol-gel technique for Photonics Applications...',
+          description: "ISIRD, IIT Kharagpur (16.03.2012 – 17.03.2015)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project8/";
+            },},{id: "projects-experimental-investigation-of-the-modes-of-random-laser-in-disordered-microfluidic-channels",
+          title: 'Experimental investigation of the modes of random laser in disordered microfluidic channels',
+          description: "SERB (DST, Young Scientist) (05.07.2013 – 04.07.2016)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project9/";
             },},{
         id: 'social-email',
         title: 'email',
