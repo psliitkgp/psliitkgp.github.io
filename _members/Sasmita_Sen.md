@@ -1,10 +1,10 @@
 ---
 layout: about
 inline: false
-group: MTech Students
-group_rank: 3
+group: Alumni (MTech)
+group_rank: 7
 team_collaborator: false
-year: 
+year: 2026
 
 title: Sasmita Sen
 description: MTech student
@@ -27,7 +27,6 @@ profile:
         IIT Kharagpur<br />
         India
 ---
-
 
 
 ## Short Bio
