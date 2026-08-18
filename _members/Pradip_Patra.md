@@ -33,6 +33,6 @@ I joined the School of Nano-Science and Technology at IIT Kharagpur as a Junior 
 
 My primary research focuses on the development of ultrasensitive agri-food sensors and photonic devices based on photonic-crystal platforms. My work aims to explore the unique optical properties of photonic crystals for developing highly sensitive, compact, and efficient sensing technologies for applications in agriculture and food safety.
 
-Apart from physics, I enjoy listening to music and traveling.
+Apart from physics,  enjoy listening to music and traveling.
 
 *Updated: Feb 09, 2026*
