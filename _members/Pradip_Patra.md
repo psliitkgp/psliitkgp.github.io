@@ -12,14 +12,15 @@ lastname: Patra
 publications:  
 
 teaser: >
-    Pradip is a graduate ...
+    Developing highly sensitive photonic-crystal based agri-food sensors and adevice having potential applications agriculture, and food industry.
 profile:
     name: Pradip Patra
     position: Doctoral Student 
     align: right
-    image: #PLCG_profile.jpg
+    image:  team/pradip_patra.jpg
     role: 
-    email:  
+    linkedin: 
+    email: pradip.phy9628825@kgpian.iitkgp.ac.in 
     github: 
     orcid: 
     address: >
@@ -28,11 +29,10 @@ profile:
         WB, India.
 ---
 
-I am a PhD student ....
+I joined the School of Nano-Science and Technology at IIT Kharagpur as a Junior Research Fellow. I completed my Master of Science (M.Sc.) degree in Physics from Vidyasagar University, Midnapore, West Bengal, India, and my Bachelor of Science (B.Sc.) degree in Physics from Midnapore College, Midnapore, West Bengal, India.
 
+My primary research focuses on the development of ultrasensitive agri-food sensors and photonic devices based on photonic-crystal platforms. My work aims to explore the unique optical properties of photonic crystals for developing highly sensitive, compact, and efficient sensing technologies for applications in agriculture and food safety.
 
-## Short Bio
-
-I have my B.Sc degree in .....
+Apart from physics, I enjoy listening to music and traveling.
 
 *Updated: Feb 09, 2026*
