@@ -21,7 +21,7 @@ profile:
     role: 
     linkedin: 
     email: pradip.phy9628825@kgpian.iitkgp.ac.in 
-    github:
+    github: 
     orcid: 
     address: >
         School of Nanoscience and Technology<br />
