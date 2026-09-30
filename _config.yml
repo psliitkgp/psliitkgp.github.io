@@ -228,7 +228,7 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
-  - jekyll/
+  - jekyll/scholar
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-terser
@@ -280,7 +280,7 @@ display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] #
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
-# Jekyll 
+# Jekyll scholar
 # -----------------------------------------------------------------------------
 
 scholar:
