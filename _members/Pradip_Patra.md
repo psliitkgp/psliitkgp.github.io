@@ -17,7 +17,7 @@ profile:
     name: Pradip Patra
     position: Doctoral Student 
     align: right
-    image: team/pradip_patra.jpg
+    image: team/Pradip_patra.jpg
     role: 
     email: pradip.phy9628825@kgpian.iitkgp.ac.in 
     linkedin: 
