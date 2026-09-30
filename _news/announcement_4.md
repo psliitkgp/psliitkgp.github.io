@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulaitons to _Mr. Somnath Pandit_ for his latest publication on [__"{Engineering highly directional Bloch surface wave-coupled augmented emission in perovskite nanocrystals-embedded photonic crystal"__](https://doi.org/10.1063/5.0331886) in _APL Engineering Physics_ !
+Congratulaitons to _Mr. Somnath Pandit_ for his latest publication on [__"Engineering highly directional Bloch surface wave-coupled augmented emission in perovskite nanocrystals-embedded photonic crystal"__](https://doi.org/10.1063/5.0331886) in _APL Engineering Physics_ !
