@@ -291,7 +291,6 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  # Force all citation anchors to point to /publications/#key
   bibliography: papers.bib
   conferences: conferences.bib
   bibliography_template: bib
