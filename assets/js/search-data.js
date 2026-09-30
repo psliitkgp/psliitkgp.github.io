@@ -231,7 +231,7 @@ ninja.data = [{
           section: "News",},{id: "news-congratulaitons-to-mr-somnath-pandit-for-his-latest-publication-on-engineering-highly-directional-bloch-surface-wave-coupled-augmented-emission-in-perovskite-nanocrystals-embedded-photonic-crystal-in-apl-engineering-physics",
           title: 'Congratulaitons to Mr. Somnath Pandit for his latest publication on “Engineering highly directional...',
           description: "",
-          section: "News",},{id: "news-congratulations-to-sudha-and-somnath-our-collaborative-with-prof-brian-t-cunningham-s-research-group-at-university-of-illinois-urbana-champaign-on-ultrasensitive-photonic-crystal-sensors-appeared-on-the-cover-page-of-advanced-optical-materials-journal-details-the-work-also-gained-media-attention-linkedin-instagram-rediff-news",
+          section: "News",},{id: "news-congratulations-to-sudha-and-somnath-our-collaborative-with-prof-brian-t-cunningham-s-research-group-at-university-of-illinois-urbana-champaign-on-ultrasensitive-photonic-crystal-sensors-appeared-on-the-cover-page-of-advanced-optical-materials-journal-s-et-al-2026-linkedin-instagram-rediff-news",
           title: 'Congratulations to Sudha and Somnath! Our collaborative with Prof. Brian T. Cunningham’s research...',
           description: "",
           section: "News",},{id: "projects-green-photonics-using-semiconductor-nanostructures",
