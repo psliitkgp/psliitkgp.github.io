@@ -308,6 +308,11 @@ ninja.data = [{
           description: "SERB (DST, Young Scientist) (05.07.2013 – 04.07.2016)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project9/";
+            },},{id: "projects-project-template",
+          title: 'project template',
+          description: "another without an image. Some description about the project.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_/";
             },},{
         id: 'social-email',
         title: 'email',
