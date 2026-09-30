@@ -307,6 +307,9 @@ scholar:
   details_link: Details
 
   query: "@*"
+  type_order: [article, inbook, book, unpublished, misc, report, conference, incollections, inproceedings, proceedings]
+  type_names: {unpublished: working papers, report: reports, article: journal articles, 
+      inproceedings: conference articles & others}
   group_by: year
   group_order: descending
 
@@ -347,7 +350,7 @@ filtered_bibtex_keywords:
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 3 # leave blank to always show all authors
-more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
+more_authors_animation_delay: 2 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
 enable_publication_thumbnails: true
