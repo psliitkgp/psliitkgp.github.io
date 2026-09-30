@@ -292,7 +292,6 @@ scholar:
 
   source: /_bibliography/
   # Force all citation anchors to point to /publications/#key
-  prefix: /publications/
   bibliography: papers.bib
   conferences: conferences.bib
   bibliography_template: bib
