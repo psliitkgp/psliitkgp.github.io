@@ -232,7 +232,7 @@ ninja.data = [{
           title: 'Congratulaitons to Mr. Somnath Pandit for his latest publication on “Engineering highly directional...',
           description: "",
           section: "News",},{id: "news-congratulations-to-sudha-and-somnath-our-collaborative-with-prof-brian-t-cunningham-s-research-group-at-university-of-illinois-urbana-champaign-on-ultrasensitive-photonic-crystal-sensors-appeared-on-the-cover-page-of-advanced-optical-materials-journal-s-et-al-2026-linkedin-instagram-rediff-news",
-          title: 'Congratulations to Sudha and Somnath! Our collaborative with Prof. Brian T. Cunningham’s research...',
+          title: 'Congratulations to Sudha and Somnath ! Our collaborative with Prof. Brian T. Cunningham’s...',
           description: "",
           section: "News",},{id: "projects-green-photonics-using-semiconductor-nanostructures",
           title: 'Green photonics using semiconductor nanostructures',
