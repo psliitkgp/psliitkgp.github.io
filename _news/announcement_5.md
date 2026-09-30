@@ -12,4 +12,4 @@ The work also gained media attention.
 [<i class="fa-brands fa-instagram"></i> Instagram](https://www.instagram.com/p/DdtcpXlnc_i/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==)
 [<i class="fa-brands fa-newspaper"></i> Rediff News](https://m.rediff.com/news/report/iit-kharagpur-develops-smartphone-sensor-for-invisible-objects/20260925.htm)
 
-_{% bibliography --cited %}_
+{% bibliography --cited %}
